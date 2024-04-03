@@ -2,7 +2,7 @@
 
 The following repository contains script and analysis that contributed to:
 
-(Chen et. al 2024)
+A Wheat Tandem Kinase Sensor Activates an NLR Helper to Trigger Immunity (Chen et. al 2024)
 
 Each directory pertains to a specific piece of analysis:
 
