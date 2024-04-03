@@ -34,5 +34,5 @@ Once you have selected to run the script in PyMol the following command should b
 
 Importing and running python libraries in PyMol can be tricky. In our experience, conservation mapper did not work when using pre-built binaries of PyMol (Open Source version).
 However, if you build PyMol from source yourself the script works perfectly! I would advise only attempting to build PyMol on a linux system such as Ubuntu.
-The instructions for building PyMol from source can be found [here](PYMOL WIKI LINK)
+The instructions for building PyMol from source can be found [here](https://github.com/schrodinger/pymol-open-source)
 

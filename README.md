@@ -11,4 +11,4 @@ Each directory pertains to a specific piece of analysis:
 
 ## Contact
 
-If you have any questions please reach out[here](mailto:sr62@oliverpowell.com)
+If you have any questions please reach out [here](mailto:sr62@oliverpowell.com)
